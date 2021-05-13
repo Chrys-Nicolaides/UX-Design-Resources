@@ -25,6 +25,10 @@ This includes everything that I have found valuable in my journey thus far, with
 * [What is User Experience (UX) Design?](https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/)
 * [What is User Experience Design? Overview, Tools & Resources](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
 
+## Tools
+
+* [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html)
+
 ## Books
 
 * [The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
@@ -34,6 +38,8 @@ This includes everything that I have found valuable in my journey thus far, with
 * [Solving Product Design Exercises](https://productdesigninterview.com/)
 * [Mindful Design](https://mindfuldesign.xyz/)
 * [101 UX Principles](https://www.oreilly.com/library/view/101-ux-principles/9781788837361/)
+* [The User Experience Team of One: A Research and Design Survival Guide](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
+* [About Face: The Essentials of Interaction Design](https://www.wiley.com/en-au/About+Face%3A+The+Essentials+of+Interaction+Design%2C+4th+Edition-p-9781118766576)
 
 ## Websites & Blogs
 
@@ -41,6 +47,7 @@ This includes everything that I have found valuable in my journey thus far, with
 * [Joel Marsh, Designing human nature](https://www.joelmarsh.com/)
 * [UX Collective](https://uxdesign.cc/)
 * [UX Portfolio Formula](https://www.uxportfolioformula.com/)
+* [Laws of UX](https://lawsofux.com/)
 * 
 
 ## Articles
