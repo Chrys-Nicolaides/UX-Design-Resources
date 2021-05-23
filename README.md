@@ -1,5 +1,11 @@
 # UX-Design-Resources
 
+<p align="center">
+  <a href="https://www.rapidops.com/blog/user-experience-for-designing-enterprise-application/">
+    <img src="https://www.rapidops.com/static/d587eab703a7938a81b645bae4989cf7/d8255/Importance-of-User-Experience1.jpg" alt="User Experience"/>
+  </a>
+</p>
+
 My personal curated list of resources, tools and articles focused on all things UX design and research. 
 
 This includes everything that I have found valuable in my journey thus far, with the intention of continually expanding it as I gain exposure to more awesome things 😎
@@ -28,6 +34,7 @@ This includes everything that I have found valuable in my journey thus far, with
 ## Tools
 
 * [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html)
+* [Contrast Checker](https://contrastchecker.com/)
 
 ## Books
 
@@ -48,7 +55,7 @@ This includes everything that I have found valuable in my journey thus far, with
 * [UX Collective](https://uxdesign.cc/)
 * [UX Portfolio Formula](https://www.uxportfolioformula.com/)
 * [Laws of UX](https://lawsofux.com/)
-* 
+* [UX Design Dictionary](https://blog.pine.design/ux-design-dictionary/)
 
 ## Articles
 
@@ -57,6 +64,8 @@ This includes everything that I have found valuable in my journey thus far, with
 * [How to write a UX Case Study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
 * [Three Levels of Accessibility](https://uxdesign.cc/the-three-levels-of-accessibility-cd1f8a70a883)
 * [Comprehensive anatomy of all 'Design Thinking' workshops](https://uxdesign.cc/comprehensive-anatomy-of-all-ux-design-thinking-workshops-c416706cd3e2)
+* [UX Designer Portfolio](https://blog.uxfol.io/ux-designer-portfolio/)
+* 
 
 ## Designers
 
