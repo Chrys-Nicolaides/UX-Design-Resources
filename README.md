@@ -90,6 +90,7 @@ This includes everything that I have found valuable in my journey thus far, with
 * [CSS-Tricks](https://twitter.com/css)
 * [Smashing Magazine](https://twitter.com/smashingmag)
 * [Pablo Stanley](https://twitter.com/pablostanley)
+* [Sarah Drasner](https://twitter.com/sarah_edo)
 * [Sarah Doody](https://www.linkedin.com/in/sarahdoody/)
 * [Femke van Schoonhoven](https://twitter.com/femkesvs)
 * [Charli Marie](https://twitter.com/charliprangley)
