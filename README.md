@@ -70,9 +70,9 @@ This includes everything that I have found valuable in my journey thus far, with
 
 ## Designers
 
-* [Sarah Doody](https://www.linkedin.com/in/sarahdoody/)
 * [Don Norman](https://www.linkedin.com/in/donnorman/)
 * [Jakob Nielsen](https://www.linkedin.com/in/jakobnielsenphd/)
+* [Sarah Doody](https://www.linkedin.com/in/sarahdoody/)
 
 
 ## Courses 
@@ -81,3 +81,15 @@ This includes everything that I have found valuable in my journey thus far, with
 * [UX Courses](https://www.sarahdoody.com/ux-courses/)
 * [Learn UX Design](https://learnui.design/courses/learn-ux-design.html)
 
+
+## Youtube
+
+* [NNgroup](https://www.youtube.com/channel/UC2oCugzU6W8-h95W7eBTUEg)
+* [InVision](https://www.youtube.com/channel/UCndfHdRdEiGOyCOgxQ4W9YQ)
+* [Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
+* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+* [Sketch Together](https://www.youtube.com/channel/UCZHkx_OyRXHb1D3XTqOidRw)
+* [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
+* [Sarah Doody](https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw)
+* [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
+* [CharliMarieTV](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
