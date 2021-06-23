@@ -15,7 +15,7 @@ This includes everything that I have found valuable in my journey thus far, with
 * UX Design
 * UX Research
 * Standards & Guidelines
-* Design Tools
+* Tools & Resources
 * Prototyping Tools
 * Books
 * Websites & Blogs
@@ -31,11 +31,17 @@ This includes everything that I have found valuable in my journey thus far, with
 * [What is User Experience (UX) Design?](https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/)
 * [What is User Experience Design? Overview, Tools & Resources](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
 
-## Tools
+## Tools & Resources
 
+* [Material Design](https://material.io/design)
 * [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html)
 * [Contrast Checker](https://contrastchecker.com/)
 * [Calltoidea (component example library)](https://www.calltoidea.com/)
+* [Screen Sizes](https://screensiz.es/phone)
+
+## Prototyping Tools
+
+* [InVision](https://www.invisionapp.com/)
 
 ## Books
 
@@ -51,12 +57,15 @@ This includes everything that I have found valuable in my journey thus far, with
 
 ## Websites & Blogs
 
+* [Material](https://material.io/)
 * [Nielsen Norman Group](https://www.nngroup.com/)
 * [Joel Marsh, Designing human nature](https://www.joelmarsh.com/)
 * [UX Collective](https://uxdesign.cc/)
 * [UX Portfolio Formula](https://www.uxportfolioformula.com/)
 * [Laws of UX](https://lawsofux.com/)
 * [UX Design Dictionary](https://blog.pine.design/ux-design-dictionary/)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [CSS-Tricks](https://css-tricks.com/)
 
 ## Articles
 
@@ -71,8 +80,21 @@ This includes everything that I have found valuable in my journey thus far, with
 ## Designers
 
 * [Don Norman](https://www.linkedin.com/in/donnorman/)
+* [Don Norman](https://twitter.com/jnd1er)
 * [Jakob Nielsen](https://www.linkedin.com/in/jakobnielsenphd/)
+* [Nielsen Norman Group](https://twitter.com/NNgroup)
+* [freeCodeCamp](https://twitter.com/freeCodeCamp)
+* [Figma](https://twitter.com/figmadesign)
+* [InVision](https://twitter.com/InVisionApp)
+* [Adobe XD](https://twitter.com/AdobeXD)
+* [CSS-Tricks](https://twitter.com/css)
+* [Smashing Magazine](https://twitter.com/smashingmag)
+* [Pablo Stanley](https://twitter.com/pablostanley)
 * [Sarah Doody](https://www.linkedin.com/in/sarahdoody/)
+* [Femke van Schoonhoven](https://twitter.com/femkesvs)
+* [Charli Marie](https://twitter.com/charliprangley)
+* [Ran Segall](https://twitter.com/ransegall)
+* [Una Kravets](https://twitter.com/Una)
 
 
 ## Courses 
@@ -85,11 +107,14 @@ This includes everything that I have found valuable in my journey thus far, with
 ## Youtube
 
 * [NNgroup](https://www.youtube.com/channel/UC2oCugzU6W8-h95W7eBTUEg)
+* [CareerFoundry](https://www.youtube.com/user/careerfoundry)
 * [InVision](https://www.youtube.com/channel/UCndfHdRdEiGOyCOgxQ4W9YQ)
 * [Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
+* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 * [Sketch Together](https://www.youtube.com/channel/UCZHkx_OyRXHb1D3XTqOidRw)
 * [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
 * [Sarah Doody](https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw)
 * [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
 * [CharliMarieTV](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
+* [Sharon Onyinye](https://www.youtube.com/channel/UCBgJ7yrU2sdhl4JWUNhnj2w)
